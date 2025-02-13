@@ -58,9 +58,9 @@ Start by installing the required dependencies to your project.
 
     01-Splash screen
     02-Station List
-    03-My favourite
-    04-Settings (langauges and theme mode)
-    05-Play the station in both forground and background
+    03-My favorite
+    04-Settings (languages and theme mode)
+    05-Play the station in both foreground and background
     06-Comprehensive filtration for the stations (genre, tag, language and country)
 
 ## Demo
