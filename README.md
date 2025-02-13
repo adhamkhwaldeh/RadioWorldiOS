@@ -69,16 +69,10 @@ Start by installing the required dependencies to your project.
 
 - **Dashboard View**
 
-| !["](./demo/Simulator Screen Shot01.png) | !["](./demo/Simulator Screen Shot01.png) | !["](./demo/Simulator Screen Shot01.png) | !["](./demo/Simulator Screen Shot01.png) |
+| !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) |
 |-----------------|-----------------|-----------------|-----------------|
 
-| !["](./demo/Simulator Screen Shot01.png) | !["](./demo/Simulator Screen Shot01.png) | !["](./demo/Simulator Screen Shot01.png) | !["](./demo/Simulator Screen Shot01.png) |
-|-----------------|-----------------|-----------------|-----------------|
-
-|!["](./) | !["](./demo/Simulator Screen Shot02.png)  !["](./demo/Simulator Screen Shot03.png) | !["](./demo/Simulator Screen Shot04.png) |
-|-----------------|-----------------|-----------------|-----------------|
-
-|!["](./demo/Simulator Screen Shot05.png) | !["](./demo/Simulator Screen Shot06.png)  !["](./demo/Simulator Screen Shot07.png) | !["](./demo/Simulator Screen Shot08.png) |
+| !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) |
 |-----------------|-----------------|-----------------|-----------------|
 
 ### Videos
