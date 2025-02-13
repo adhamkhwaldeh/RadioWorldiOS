@@ -69,10 +69,10 @@ Start by installing the required dependencies to your project.
 
 - **Dashboard View**
 
-| !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) |
+| !["](./demo/Simulator_Screen_Shot01.png) | !["](./demo/Simulator_Screen_Shot02.png) | !["](./demo/Simulator_Screen_Shot03.png) | !["](./demo/Simulator_Screen_Shot04.png) |
 |-----------------|-----------------|-----------------|-----------------|
 
-| !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) | !["](./demo/Simulator_Screen_Shot08.png) |
+| !["](./demo/Simulator_Screen_Shot05.png) | !["](./demo/Simulator_Screen_Shot06.png) | !["](./demo/Simulator_Screen_Shot07.png) | !["](./demo/Simulator_Screen_Shot08.png) |
 |-----------------|-----------------|-----------------|-----------------|
 
 ### Videos
