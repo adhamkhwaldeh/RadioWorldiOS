@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AlamofireNetworkActivityLogger (3.4.0):
+    - Alamofire (~> 5.4.0)
+  - ConcentricOnboarding (0.0.5)
+  - FRadioPlayer (0.1.22)
+  - GRDB.swift (5.3.0):
+    - GRDB.swift/standard (= 5.3.0)
+  - GRDB.swift/standard (5.3.0)
+  - Introspect (0.1.2)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Kingfisher (6.0.1)
+  - SwiftUIRefresh (0.0.3):
+    - Introspect (~> 0.1.0)
+  - URLImage (2.2.5):
+    - URLImage/Common (= 2.2.5)
+    - URLImage/DownloadManager (= 2.2.5)
+    - URLImage/FileIndex (= 2.2.5)
+    - URLImage/ImageDecoder (= 2.2.5)
+    - URLImage/Log (= 2.2.5)
+    - URLImage/PlainDatabase (= 2.2.5)
+    - URLImage/RemoteContentView (= 2.2.5)
+  - URLImage/Common (2.2.5)
+  - URLImage/DownloadManager (2.2.5):
+    - URLImage/Log
+  - URLImage/FileIndex (2.2.5):
+    - URLImage/Common
+    - URLImage/Log
+    - URLImage/PlainDatabase
+  - URLImage/ImageDecoder (2.2.5)
+  - URLImage/Log (2.2.5)
+  - URLImage/PlainDatabase (2.2.5)
+  - URLImage/RemoteContentView (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AlamofireNetworkActivityLogger (~> 3.4)
+  - ConcentricOnboarding (from `/Users/adhamkhwaldeh/Data/Projects/RadioControllerIos/radiostoreios/ConcentricOnboarding`)
+  - FRadioPlayer
+  - GRDB.swift
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 6.0)
+  - SwiftUIRefresh
+  - URLImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityLogger
+    - FRadioPlayer
+    - GRDB.swift
+    - Introspect
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - SwiftUIRefresh
+    - URLImage
+
+EXTERNAL SOURCES:
+  ConcentricOnboarding:
+    :path: "/Users/adhamkhwaldeh/Data/Projects/RadioControllerIos/radiostoreios/ConcentricOnboarding"
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AlamofireNetworkActivityLogger: 162ab8aee00e6267a4304d7cc134e13ccfe3bcc5
+  ConcentricOnboarding: 7423b7a477425047706e4613c77a592be3c11538
+  FRadioPlayer: 7c6173cc44a3be39a9419abd3a931d9223e175e4
+  GRDB.swift: 6d44795b19d716e9f09f19018c3bde5b71b67ae9
+  Introspect: 85a29d2c5ee4d3d15469ad0b75fd8839f3e72674
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Kingfisher: adde87a4f74f6a3845395769354efff593581740
+  SwiftUIRefresh: ca6ae2718d25aad5dd68bbf5d2ae36ef6ade98bf
+  URLImage: 36a66c03ba2a9ccbbf06bc83431f2cef171008e8
+
+PODFILE CHECKSUM: b131a7e1b74db598aec7863cfc82d2ab06f2c4b5
+
+COCOAPODS: 1.11.3
