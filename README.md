@@ -50,7 +50,6 @@ Start by installing the required dependencies to your project.
     you might need to update the base url if the server below get down
     static let baseUrl = "https://de1.api.radio-browser.info/"
 
-
 ### Step 3: Test the Integration
 
    Just run Run the application on your device (you might need to setup apple account).
@@ -70,10 +69,10 @@ Start by installing the required dependencies to your project.
 
 - **Dashboard View**
 
-| !["](./demos/Simulator Screen Shot01.png) | !["](./demos/Simulator Screen Shot02.png)  !["](./demos/Simulator Screen Shot03.png) |!["](./demos/Simulator Screen Shot04.png) |
+| !["](./demos/Simulator Screen Shot01.png) | !["](./demos/Simulator Screen Shot02.png)  !["](./demos/Simulator Screen Shot03.png) | !["](./demos/Simulator Screen Shot04.png) |
 |-----------------|-----------------|-----------------|-----------------|
 
-| !["](./demos/Simulator Screen Shot05.png) | !["](./demos/Simulator Screen Shot06.png)  !["](./demos/Simulator Screen Shot07.png) |!["](./demos/Simulator Screen Shot08.png) |
+| !["](./demos/Simulator Screen Shot05.png) | !["](./demos/Simulator Screen Shot06.png)  !["](./demos/Simulator Screen Shot07.png) | !["](./demos/Simulator Screen Shot08.png) |
 |-----------------|-----------------|-----------------|-----------------|
 
 ### Videos
@@ -87,7 +86,7 @@ No authorization is required here
 
 ## Api reference
 
-https://api.radio-browser.info/
+<https://api.radio-browser.info/>
 
 ## Common Errors & Troubleshooting
 
