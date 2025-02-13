@@ -75,6 +75,9 @@ Start by installing the required dependencies to your project.
 | !["](./demo/Simulator_Screen_Shot05.png) | !["](./demo/Simulator_Screen_Shot06.png) | !["](./demo/Simulator_Screen_Shot07.png) | !["](./demo/Simulator_Screen_Shot08.png) |
 |-----------------|-----------------|-----------------|-----------------|
 
+| !["](./demo/Simulator_Screen_Shot10.png) | !["](./demo/Simulator_Screen_Shot11.png) | !["](./demo/Simulator_Screen_Shot12.png) | !["](./demo/Simulator_Screen_Shot13.png) |
+|-----------------|-----------------|-----------------|-----------------|
+
 ### Videos
 
 |[![Watch the video 1]()](https://youtu.be/aocOFGVXn-g) |
