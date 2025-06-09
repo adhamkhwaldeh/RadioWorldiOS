@@ -43,8 +43,8 @@ Before you begin the integration process, make sure you have the following:
 ### Step 1: Install Dependencies
 
 Start by installing the required dependencies to your project.
-    - pod init
-    - pod install
+    - Ensure you have CocoaPods installed (`gem install cocoapods` if needed).
+    - Run `pod install` to download the latest compatible versions of the dependencies.
 
 ### Step 2: Configure the Integration
     you might need to update the base url if the server below get down
