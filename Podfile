@@ -6,14 +6,14 @@ use_frameworks!
 target 'radiostore' do
  
   # Pods for radiostore
-  pod 'ConcentricOnboarding', :path => '/Users/adhamkhwaldeh/Data/Projects/RadioControllerIos/radiostoreios/ConcentricOnboarding'
+  pod 'ConcentricOnboarding', :path => './ConcentricOnboarding'
 
 
-  pod 'Alamofire', '~> 5.6.4'
-  pod 'AlamofireNetworkActivityLogger', '~> 3.4'
+  pod 'Alamofire', 
+  pod 'AlamofireNetworkActivityLogger', 
 #  pod 'SDWebImage/WebP'
 #  pod 'Kingfisher'
-  pod 'Kingfisher', '~> 7.0'
+  pod 'Kingfisher' 
   pod 'GRDB.swift'
 #  pod 'lottie-ios'
   pod 'IQKeyboardManagerSwift' #iOS8 and later
@@ -60,7 +60,7 @@ target 'radiostore' do
       installer.generated_projects.each do |project|
           project.targets.each do |target|
               target.build_configurations.each do |config|
-                  config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '13.0'
+                  config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '14.0'
               end
           end
       end
